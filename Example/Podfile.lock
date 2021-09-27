@@ -2,15 +2,20 @@ PODS:
   - LSComponentDemo (0.1.0)
 
 DEPENDENCIES:
-  - LSComponentDemo (from `../`)
+  - "LSComponentDemo (from `git@github.com:Marshal-S/LSComponentPodsDemo.git`)"
 
 EXTERNAL SOURCES:
   LSComponentDemo:
-    :path: "../"
+    :git: "git@github.com:Marshal-S/LSComponentPodsDemo.git"
+
+CHECKOUT OPTIONS:
+  LSComponentDemo:
+    :commit: ac804719d1c55ac36227627d5595d39dc21a6361
+    :git: "git@github.com:Marshal-S/LSComponentPodsDemo.git"
 
 SPEC CHECKSUMS:
-  LSComponentDemo: a9d9cd1e2989353e09a23d4d22d15ec8a2184498
+  LSComponentDemo: 6b135796b63ac935e0d9a0b3db4745b07df2c732
 
-PODFILE CHECKSUM: 41c08e42fb20352c7722bbd28149ae4fd2d152af
+PODFILE CHECKSUM: cbeead97516baa8b8ce45257be5f7496bb5bc636
 
 COCOAPODS: 1.10.1

@@ -4,6 +4,8 @@ platform :ios, '9.0'
 
 target 'LSComponentDemo_Example' do
  
- pod 'LSComponentDemo', :path => '../'
+ # pod 'LSComponentDemo', :path => '../'
+ 
+ pod 'LSComponentDemo', :git =>"git@github.com:Marshal-S/LSComponentPodsDemo.git"
 
 end

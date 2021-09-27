@@ -12,11 +12,11 @@
     "Marshal-S": "921871381@qq.com"
   },
   "source": {
-    "git": "https://github.com/Marshal-S/LSComponentDemo.git",
+    "git": "git@github.com:Marshal-S/LSComponentPodsDemo.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "LSComponentDemo/Classes/**/*"
+  "source_files": "LSComponentDemo/Classes/**/*.{h.m}"
 }

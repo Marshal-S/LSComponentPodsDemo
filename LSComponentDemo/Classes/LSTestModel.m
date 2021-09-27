@@ -11,7 +11,7 @@
 @implementation LSTestModel
 
 + (void)printTestInfo {
-    NSLog(@"测试一下能否成功调用");
+    NSLog(@"测试一下能否成功调用，更新新版本测试!");
 }
 
 @end

@@ -1,6 +1,6 @@
 {
   "name": "LSComponentDemo",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A short description of LSComponentDemo.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/Marshal-S/LSComponentDemo",
@@ -13,11 +13,10 @@
   },
   "source": {
     "git": "git@github.com:Marshal-S/LSComponentPodsDemo.git",
-    "tag": "0.1.1"
+    "tag": "0.1.2"
   },
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "LSComponentDemo/Classes/**/*",
-  "frameworks": "UIKit"
+  "source_files": "LSComponentDemo/Classes/**/*"
 }

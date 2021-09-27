@@ -1,5 +1,5 @@
 PODS:
-  - LSComponentDemo (0.1.1)
+  - LSComponentDemo (0.1.2)
 
 DEPENDENCIES:
   - "LSComponentDemo (from `git@github.com:Marshal-S/LSComponentPodsDemo.git`)"
@@ -10,11 +10,11 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   LSComponentDemo:
-    :commit: 72c95dc8ecfe598433d852e91fa2ed81b9d3828d
+    :commit: 328cdbc84730d294df8b59b5cab9cfbd0fc87f8d
     :git: "git@github.com:Marshal-S/LSComponentPodsDemo.git"
 
 SPEC CHECKSUMS:
-  LSComponentDemo: 9c20aa6d3230ca54d74995248e6c27f6f9898885
+  LSComponentDemo: e7d9e441aaa72c9f4ada9dc225620cf058c4350a
 
 PODFILE CHECKSUM: cbeead97516baa8b8ce45257be5f7496bb5bc636
 

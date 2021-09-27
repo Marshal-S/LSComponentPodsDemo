@@ -1,0 +1,16 @@
+PODS:
+  - LSComponentDemo (0.1.0)
+
+DEPENDENCIES:
+  - LSComponentDemo (from `../`)
+
+EXTERNAL SOURCES:
+  LSComponentDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LSComponentDemo: a9d9cd1e2989353e09a23d4d22d15ec8a2184498
+
+PODFILE CHECKSUM: 41c08e42fb20352c7722bbd28149ae4fd2d152af
+
+COCOAPODS: 1.10.1

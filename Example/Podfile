@@ -3,11 +3,7 @@ use_frameworks!
 platform :ios, '9.0'
 
 target 'LSComponentDemo_Example' do
-  pod 'LSComponentDemo', :path => '../'
+ 
+ pod 'LSComponentDemo', :path => '../'
 
-  target 'LSComponentDemo_Tests' do
-    inherit! :search_paths
-
-    pod 'FBSnapshotTestCase'
-  end
 end

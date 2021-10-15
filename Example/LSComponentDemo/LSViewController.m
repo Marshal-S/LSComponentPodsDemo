@@ -7,7 +7,8 @@
 //
 
 #import "LSViewController.h"
-#import <LSTestModel.h>
+#import <LSComponentDemo/LSTestModel.h>
+#import <LSComponentDemo/TestView.h>
 
 @interface LSViewController ()
 
@@ -21,6 +22,8 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     [LSTestModel printTestInfo];
+    TestView *tv = [[TestView alloc] initWithFrame:CGRectMake(100, 100, 80, 80)];
+    [self.view addSubview:tv];
 }
 
 - (void)didReceiveMemoryWarning

@@ -11,6 +11,7 @@
 #endif
 
 #import "LSTestModel.h"
+#import "TestView.h"
 
 FOUNDATION_EXPORT double LSComponentDemoVersionNumber;
 FOUNDATION_EXPORT const unsigned char LSComponentDemoVersionString[];
